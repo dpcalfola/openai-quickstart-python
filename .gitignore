@@ -16,3 +16,7 @@ build/
 .DS_STORE
 
 .env
+
+# System and IDE files
+.idea/
+.DS_Store/

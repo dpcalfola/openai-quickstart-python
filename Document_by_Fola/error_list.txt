@@ -1,0 +1,12 @@
+* Failed of pip installing for specific package version
+
+If the Python interpreter version is too high,
+it could make the error of that pip install failed of specific package version
+although the package version is correct.
+
+Error case:
+    Python 3.11.1:
+        It occurs errors of pip requirement.txt install includes numpy
+    Python 3.10.9:
+        It does not occur errors
+        All packages are installed successfully

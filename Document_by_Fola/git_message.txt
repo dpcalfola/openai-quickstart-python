@@ -1,0 +1,19 @@
+Feat > Initial Setup
+
+    1. Make my own document directory
+        1-1) /Document_by_Fola
+        1-2) error_list.txt is manual document for error and solving log
+
+    2. Set .gitignore
+
+    3. Setup develop environment
+        3-1) Python Interpreter 3.10.9
+        3-2) pip install -r requirements.txt
+        3-3) .env file for API key
+
+    4. Flask run and check
+        It works well
+
+    5. Error log
+        Python@3.11.1 makes error in pip package install
+        So, I change Python version to 3.10.9 and It works well
